@@ -20,3 +20,7 @@ Proyectos en AWS (Amazon Web Services), integrando EC2 + RDS + Route 53 + Bucket
 # Contacto
 <p><a href="https://www.linkedin.com/in/ricardo-zambrano-381ba711/" target="_blank">Linkedin</a></p>
 <p><a href="https://github.com/ricaza81" target="_blank">GitHub</a></p>
+
+# Frameworks
+<p>Laravel + Blade => Backend + Frontend</p>
+<p>Symfony + Twig => (40%) Backend + (40%) Frontend</p>
