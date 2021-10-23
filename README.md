@@ -27,4 +27,5 @@ Proyectos en AWS (Amazon Web Services), integrando EC2 + RDS + Route 53 + Bucket
 
 # Reconocimientos
 <p>Laravel + Blade => Backend + Frontend</p>
-<p><a href="https://servir.ciat.cgiar.org/menciones_especiales_space_apps_challenge_cali/?lang=es" target="_blank">Talento joven colombiano en el Space Apps Challenge Cali: Combinando algoritmos y ganas para un mundo más sustentable</a></p>
+<p><a href="https://servir.ciat.cgiar.org/menciones_especiales_space_apps_challenge_cali/?lang=es" target="_blank">Talento joven colombiano en el Space Apps Challenge Cali: Combinando algoritmos y ganas para un mundo más sustentable (Español)</a></p>
+<p><a href="https://servir.ciat.cgiar.org/young-colombian-talent-in-the-space-apps-challenge-cali-combining-algorithms-and-a-desire-for-a-more-sustainable-world/" target="_blank">Talento joven colombiano en el Space Apps Challenge Cali: Combinando algoritmos y ganas para un mundo más sustentable (Inglés)</a></p>
