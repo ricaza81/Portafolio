@@ -1,5 +1,5 @@
 # Portafolio
-Proyectos como desarrollador:
+Proyectos como desarrollador: (explora > <a href="https://ricardozambrano.co/" target="_blank>">ricardozambrano.co</a>)
 
 Proyectos en AWS (Amazon Web Services), integrando EC2 + RDS + Route 53 + Bucket Amazon S3 >
 <p><a href="https://agronielsen.com/" target="_blank">Agronielsen.com</a></p>
