@@ -16,3 +16,7 @@ Proyectos en AWS (Amazon Web Services), integrando EC2 + RDS + Route 53 + Bucket
 # Proyecto PWA usando Ionic + Firebase + Bucket Amazon S3
 <p><a href="https://bit.ly/3b0SrEa" target="_blank">Progressive Web Application</a></p>
 <p><a href="https://play.google.com/store/apps/details?id=io.ionic.agronielsen&hl=es&gl=US" target="_blank">Google Play Store</a></p>
+
+# Contacto
+<p><a href="https://www.linkedin.com/in/ricardo-zambrano-381ba711/" target="_blank">Linkedin</a></p>
+<p><a href="https://github.com/ricaza81" target="_blank">GitHub</a></p>
